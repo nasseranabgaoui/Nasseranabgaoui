@@ -1,4 +1,9 @@
-![GIF d'apprentissage](https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif)
+## 👋 Hi, I'm Nassera Nabgaoui
+I originally studied Management and Finance but have recently shifted my focus to a Master's in Computer Science.  
+I am currently dedicating myself to learning as much as possible and exploring the tech field through projects and continuous practice.
+
+
+![GIF d'apprentissage](https://i.pinimg.com/originals/bf/16/a0/bf16a028b29a65eebd7241df947bfffe.gif) 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nasseranabgaoui@gmail.com) 
