@@ -13,7 +13,8 @@ I am currently dedicating myself to learning as much as possible and exploring t
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nasseranabgaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nasseranabgaoui&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasseranabgaoui&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nasseranabgaoui&layout=compact&langs_count=10&hide=)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nasseranabgaoui&theme=radical&no-frame=false&no-bg=true&margin-w=4)
